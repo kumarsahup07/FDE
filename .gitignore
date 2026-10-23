@@ -1,0 +1,29 @@
+# Ignore all environment & secret files anywhere
+**/.env
+**/.env.*
+.env
+.env.*
+*.env
+
+# Python virtual environments
+**/myenv/
+**/.venv/
+**/venv/
+**/env/
+
+# Python cache and bytecode
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Node / JS dependencies (if applicable)
+**/node_modules/
+
+# Generated files
+**/generated-sites/
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
