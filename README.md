@@ -9,7 +9,7 @@ This repository contains my personal notes, implementations, and solutions for t
 Special thanks and full credit to the original creators and instructors:
 
 - **Original Course Repository**: [Aditya Tandon / Forward-Deployed-Engineer-Full-Course](https://github.com/adityatandon15/Forward-Deployed-Engineer-Full-Course)
-- **YouTube Channel**: [Coder Army](https://www.youtube.com/@CoderArmy)
+- **YouTube Channel**: [Coder Army](https://www.youtube.com/@CoderArmy9)
 - **Full Course Playlist**: [Forward Deployed Engineer Playlist on YouTube](https://youtube.com/playlist?list=PLWSlr9idVBc0&si=cr72JaMeeG5fFgPG)
 
 ---
